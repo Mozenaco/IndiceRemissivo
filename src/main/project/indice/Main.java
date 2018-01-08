@@ -58,8 +58,7 @@ public class Main {
 	
 	public static class IndiceHash{
 		
-		private Map<String, List<String>> myMap = new HashMap<String,List<String>>();;
-		
+		private Map<String, List<String>> myMap = new HashMap<String,List<String>>();
 		
 		public IndiceHash(String input){
 			
